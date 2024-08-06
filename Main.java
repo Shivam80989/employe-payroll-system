@@ -100,6 +100,9 @@ public class Main{
         System.out.println("removing employe");
         // payrollsystem.removeEmployee(emp2);
         System.out.println("remaining employe");
+
+
+        
         payrollsystem.displayEmployees();
 
         
